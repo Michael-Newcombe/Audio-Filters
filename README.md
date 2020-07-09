@@ -1,6 +1,8 @@
 # Audio-Filters
 An interactive application that demonstrates lowpass and highpass audio filters, written in C++ using the framework openFrameworks.   
 
+![](preview.gif)
+
 **Prerequisites:** openFrameworks, ofxMaxim, ofxDatGui
 
 **Step 1:** Download openFrameworks and follow the setup guide for your OS and IDE.
